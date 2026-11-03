@@ -1,0 +1,6 @@
+{
+  "name": "عالم الحروف | World of Letters",
+  "description": "تطبيق تعليمي تفاعلي كرتوني ممتع للأطفال لتعلم قراءة وكتابة الحروف والكلمات العربية مع أصوات وألعاب وجوائز للأعمار من 4 إلى 10 سنوات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
